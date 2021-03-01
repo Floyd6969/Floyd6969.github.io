@@ -2,6 +2,13 @@
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 
 <item>
+<title>[COLORyellow][B]Streams Live During Events[/B][/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</item>
+
+<item>
 	<title>HD Streams 1</title>
 	<link>$doregex[get_sxstream]|Referer=http://hhdstreams.club/page/ch1.php</link>
 	<info>Programme dispo sur : http://hhdstreams.club/</info>
