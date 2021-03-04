@@ -108,43 +108,29 @@
 </item>
 
 <item>
-<title>Bein Sports 11 (English)</title>
-<link>http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1446.ts</link>
+<title>Bein Sports 1 (English)</title>
+<link>http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1453.ts</link>
 <thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
 <item>
-<title>Bein Sports 11 (English)</title>
-<link>http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1446.m3u8</link>
+<title>Bein Sports 1 (English)</title>
+<link>http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1453.m3u8</link>
 <thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
 item>
-<title>Bein Sports 11 (English)</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://mags.vip:2086/live/miriam/miriam123/66782.m3u8&amp;name=Bein Sports 11 (English)</link>
-<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
- 
-<item>
 <title>Bein Sports 12 (English)</title>
 <link>http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1447.ts</link>
 <thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
-<item>
-<title>Bein Sports 12 (English)</title>
-<link>http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1447.m3u8</link>
-<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
-
 item>
 <title>Bein Sports 12 (English)</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://mags.vip:2086/live/miriam/miriam123/66783.m3u8&amp;name=Bein Sports 12 (English)</link>
+<link>http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1447.m3u8</link>
 <thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
