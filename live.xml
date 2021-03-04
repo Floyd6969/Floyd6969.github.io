@@ -24,7 +24,14 @@
 
 <item>
 <title>18:00 Fulham v Tottenham Hotspur</title>
-<link>http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1446.m3u8</link>
+<link>http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1453.m3u8</link>
+<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</item>
+
+<item>
+<title>18:00 Fulham v Tottenham Hotspur</title>
+<link>http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1453.ts</link>
 <thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
@@ -66,13 +73,6 @@
 
 <item>
 <title>18:00 West Brom v Everton</title>
-<link>http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1446.m3u8</link>
-<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
-
-<item>
-<title>18:00 West Brom v Everton</title>
 <link>https://laos-tech-live.b-cdn.net/uk-skysports-epl_720/index.m3u8</link>
 <thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
@@ -108,7 +108,14 @@
 
 <item>
 <title>20:15 Liverpool v Chelsea</title>
-<link>http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1446.m3u8</link>
+<link>http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1453.m3u8</link>
+<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</item>
+
+<item>
+<title>20:15 Liverpool v Chelsea</title>
+<link>http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1453.ts</link>
 <thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
