@@ -31,13 +31,6 @@
 
 <item>
 <title>18:00 Fulham v Tottenham Hotspur</title>
-<link>http://77.247.109.116/hls/ovostreamss1.m3u8</link>
-<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
-
-<item>
-<title>18:00 Fulham v Tottenham Hotspur</title>
 <link>https://laos-tech-live.b-cdn.net/uk-btsport1hd_720/index.m3u8</link>
 <thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
@@ -52,6 +45,20 @@
 
 <item>
 <title>18:00 Fulham v Tottenham Hotspur</title>
+<link>http://77.247.109.116/hls/ovostreamss1.m3u8</link>
+<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</item>
+
+<item>
+<title>18:00 Fulham v Tottenham Hotspur</title>
+<link>http://d3npr9ipkrtnc0.cloudfront.net/hls/ovostreamss1.m3u8</link>
+<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</item>
+
+<item>
+<title>18:00 Fulham v Tottenham Hotspur</title>
 <link>https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8</link>
 <thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
@@ -80,7 +87,14 @@
 
 <item>
 <title>18:00 West Brom v Everton</title>
-<link>http://77.247.109.116/hls/ovostreamss1.m3u8</link>
+<link>http://77.247.109.116/hls/ovo2.m3u8</link>
+<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</item>
+
+<item>
+<title>18:00 West Brom v Everton</title>
+<link>http://d3npr9ipkrtnc0.cloudfront.net/hls/ovo2.m3u8</link>
 <thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
@@ -116,6 +130,13 @@
 <item>
 <title>20:15 Liverpool v Chelsea</title>
 <link>http://77.247.109.116/hls/ovostreamss1.m3u8</link>
+<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</item>
+
+<item>
+<title>20:15 Liverpool v Chelsea</title>
+<link>http://d3npr9ipkrtnc0.cloudfront.net/hls/ovostreamss1.m3u8</link>
 <thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
