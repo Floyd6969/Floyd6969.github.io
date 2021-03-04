@@ -43,12 +43,6 @@
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
-<item>
-<title>STADIUM</title>
-<link>https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8 </link>
-<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
 
 <item>
 <title>MLB Network</title>
@@ -113,7 +107,7 @@
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
  
-item>
+<item>
 <title>BEK SPORTS EAST</title>
 <link>https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8</link>
 <thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
