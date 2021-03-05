@@ -252,10 +252,31 @@ item>
 <thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
+
+<item>
+<title>MUTV</title>
+<link>http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1627.m3u8</link>
+<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</item>
  
 <item>
 <title>MUTV</title>
 <link>https://www.livedoomovies.com/02_MUTV_720p/chunklist.m3u8</link>
+<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</item>
+
+<item>
+<title>LFC TV</title>
+<link>http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1623.m3u8</link>
+<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</item>
+
+<item>
+<title>LFC TV</title>
+<link>https://www.livedoomovies.com/02_lfctv_720p/chunklist.m3u8</link>
 <thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
@@ -268,8 +289,10 @@ item>
 </item>
 
 <item>
-<title>LFC TV</title>
-<link>https://www.livedoomovies.com/02_lfctv_720p/chunklist.m3u8</link>
+<title>Real Madrid TV/title>
+<link>http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1629.m3u8</link>
 <thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
+
+
