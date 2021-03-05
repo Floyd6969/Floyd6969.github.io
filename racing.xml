@@ -2,6 +2,55 @@
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 
 <item>
+<title>Sky One Racing</title>
+<link>https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8</link>
+<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</item>
+
+<item>
+<title>Sky Two Racing</title>
+<link>https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8</link>
+<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</item>
+
+<item>
+<title>Capital OTB Betting</title>
+<link>https://d2up1hmow19bcd.cloudfront.net/livecf/liveracing/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</item>
+
+<item>
+<title>Thoroughbred Central</title>
+<link>https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd_extreme@569780.m3u8</link>
+<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</item>
+
+<item>
+<title>Dubai Racing</title>
+<link>http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8</link>
+<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</item>
+
+<item>
+<title>Dubai Racing 2</title>
+<link>http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8</link>
+<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</item>
+
+<item>
+<title>Dubai Racing 3</title>
+<link>http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</item>
+
+<item>
 <title>Betfred TV</title>
 <link>http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/891.ts</link>
 <thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
