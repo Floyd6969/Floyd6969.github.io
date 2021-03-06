@@ -100,21 +100,6 @@
 </item>
 
 <item>
-	<title>Sky Premier League HD (MTO)</title>
-	<link>$doregex[get_sxstream]|Referer=http://hhdstreams.club/page/ch5.php</link>
-	<info>Programme dispo sur : http://hhdstreams.club/</info>
-	<regex>
-		<name>get_sxstream</name>
-		<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
-		<page>http://hhdstreams.club/page/ch5.php</page>
-		<referer>http://hhdstreams.club/page/ch5.php</referer>
-	</regex>
-	
-	<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
-        <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
-
-<item>
 <title>Bein Sports 1 (English)</title>
 <link>http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1453.ts</link>
 <thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
@@ -163,23 +148,23 @@ item>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
  
-item>
-<title>Astro Supersport 1 (English)</title>
-<link>http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8</link>
+<item>
+<title>Optus 2 (English)</title>
+<link>http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1368.ts</link>
 <thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
-item>
-<title>Astro Supersport 2 (English)</title>
-<link>http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8</link>
+<item>
+<title>NOW Sports 1 HD (English)</title>
+<link>http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2074.ts</link>
 <thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
-item>
-<title>Astro Supersport 3 (English)</title>
-<link>http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8</link>
+<item>
+<title>NOW Sports 1 HD (English)</title>
+<link>http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2074.m3u8</link>
 <thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
