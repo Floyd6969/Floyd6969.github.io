@@ -16,7 +16,7 @@
 </item>
 
 <item>
-<title>BT Sport 1 HD (No VPN)</title>
+<title>BT Sport 1 HD</title>
 <link>http://45.153.33.134:2200/EX/BT_Sport_1_HD-uk/tracks-v1a1/mono.m3u8?token=</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
@@ -36,7 +36,7 @@
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
-<item>
+item>
 <title>BT Sport 1 HD</title>
 <link>https://laos-tech-live.b-cdn.net/uk-btsport1hd_720/index.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
@@ -44,7 +44,7 @@
 </item>
 
 <item>
-<title>BT Sport 2 HD (No VPN)</title>
+<title>BT Sport 2 HD</title>
 <link>http://45.153.33.134:2200/EX/BT_Sport_2_HD-uk/tracks-v1a1/mono.m3u8?token=</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
@@ -64,7 +64,7 @@
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
-<item>
+item>
 <title>BT Sport 2 HD</title>
 <link>https://laos-tech-live.b-cdn.net/uk-btsport2hd_720/index.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
@@ -72,27 +72,27 @@
 </item>
 
 <item>
-<title>Sky Main Event HD (No VPN)</title>
+<title>Sky Main Event HD</title>
 <link>http://45.153.33.134:2200/EX/Sky_Sports_Main_Event_HD-uk/tracks-v1a1/mono.m3u8?token=</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
-<item>
+item>
 <title>Sky Main Event HD</title>
 <link>https://laos-tech-live.b-cdn.net/uk-skysports-mainevent_720/index.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
-<item>
+item>
 <title>Sky Main Event HD</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://freestreams-live1.com/sky-sp-mainevent/</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
-<item>
+item>
 <title>Sky Premier League HD</title>
 <link>https://laos-tech-live.b-cdn.net/uk-skysports-epl_720/index.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
@@ -100,7 +100,7 @@
 </item>
 
 <item>
-<title>SuperSport P L HD (No VPN)</title>
+<title>SuperSport Prem HD</title>
 <link>http://45.153.33.134:2200/AFR-EX/SuperSport_Premier_League_FHD-dstv/index.m3u8?token=</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
