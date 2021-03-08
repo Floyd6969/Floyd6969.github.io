@@ -2,7 +2,7 @@
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 
 <item>
-<title>BT Sport 1 HD (No VPN) (UFC)</title>
+<title>BT Sport 1 HD (UFC)</title>
 <link>http://45.153.33.134:2200/EX/BT_Sport_1_HD-uk/tracks-v1a1/mono.m3u8?token=</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
@@ -22,7 +22,7 @@
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
-<item>
+item>
 <title>BT Sport 1 HD (UFC)</title>
 <link>https://laos-tech-live.b-cdn.net/uk-btsport1hd_720/index.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
@@ -30,7 +30,7 @@
 </item>
 
 <item>
-<title>BT Sport 2 HD (No VPN) (UFC)</title>
+<title>BT Sport 2 HD (UFC)</title>
 <link>http://45.153.33.134:2200/EX/BT_Sport_2_HD-uk/tracks-v1a1/mono.m3u8?token=</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
@@ -58,7 +58,7 @@
 </item>
 
 <item>
-<title>BT Sport 3 HD (No VPN)</title>
+<title>BT Sport 3 HD</title>
 <link>http://45.153.33.134:2200/EX/BT_Sport_3_HD-uk/tracks-v1a1/mono.m3u8?token=</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
@@ -66,20 +66,20 @@
 
 <item>
 <title>BT Sport 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://cdn.sha-256.org/777446287/Bs8ivk5ihq/2538&amp;name=BT Sport 3 HD</link>
+<link>https://cdn.sha-256.org/777446287/Bs8ivk5ihq/2538</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
 <item>
-<title>BT Sport ESPN HD (No VPN)</title>
+<title>BT Sport ESPN HD</title>
 <link>http://45.153.33.134:2200/EX/BT_Sport_ESPN_HD-uk/tracks-v1a1/mono.m3u8?token=</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
  
 <item>
-<title>Sky Main Event HD (No VPN)</title>
+<title>Sky Main Event HD</title>
 <link>http://45.153.33.134:2200/EX/Sky_Sports_Main_Event_HD-uk/tracks-v1a1/mono.m3u8?token=</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
@@ -107,7 +107,7 @@
 </item>
 
 <item>
-<title>Sky NFL (No VPN)</title>
+<title>Sky NFL</title>
 <link>http://45.153.33.134:2200/EX/Sky_Sports_NFL_HD-uk/tracks-v1a1/mono.m3u8?token=</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
@@ -121,13 +121,13 @@ item>
 </item>
 
 <item>
-<title>Sky Golf (No VPN)</title>
+<title>Sky Golf</title>
 <link>http://45.153.33.134:2200/EX/Sky_Sports_Golf_HD-uk/tracks-v1a1/mono.m3u8?token=</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
-<item>
+item>
 <title>Sky Golf</title>
 <link>https://laos-tech-live.b-cdn.net/uk-skysports-golf_720/index.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
@@ -135,13 +135,13 @@ item>
 </item>
  
 <item>
-<title>Sky Cricket (No VPN)</title>
+<title>Sky Cricket</title>
 <link>http://45.153.33.134:2200/EX/Sky_Sports_Cricket_HD-uk/tracks-v1a1/mono.m3u8?token=</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
-<item>
+item>
 <title>Sky Cricket</title>
 <link>https://laos-tech-live.b-cdn.net/uk-skysports-cricket_720/index.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
@@ -149,13 +149,13 @@ item>
 </item>
 
 <item>
-<title>Sky Football (No VPN)</title>
+<title>Sky Football</title>
 <link>http://45.153.33.134:2200/EX/Sky_Sports_Football_HD-uk/tracks-v1a1/mono.m3u8?token=</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
  
-<item>
+item>
 <title>Sky Football</title>
 <link>https://laos-tech-live.b-cdn.net/uk-skysports-football_720/index.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
@@ -163,13 +163,13 @@ item>
 </item>
 
 <item>
-<title>Sky F1 (No VPN)</title>
+<title>Sky F1</title>
 <link>http://45.153.33.134:2200/EX/Sky_Sports_F1_HD-uk/tracks-v1a1/mono.m3u8?token=</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
-<item>
+item>
 <title>Sky F1</title>
 <link>https://laos-tech-live.b-cdn.net/uk-skysports-f1_720/index.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
@@ -177,13 +177,13 @@ item>
 </item>
 
 <item>
-<title>Sky Sports News (No VPN)</title>
+<title>Sky Sports News</title>
 <link>http://45.153.33.134:2200/EX/Sky_Sports_News_HD-uk/tracks-v1a1/mono.m3u8?token=</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
-<item>
+item>
 <title>Sky Arena</title>
 <link>https://laos-tech-live.b-cdn.net/uk-skysports-arena_720/index.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
@@ -191,22 +191,8 @@ item>
 </item>
 
 <item>
-<title>Sky Mix (No VPN)</title>
+<title>Sky Mix</title>
 <link>http://45.153.33.134:2200/EX/Sky_Sports_Mix_HD-uk/tracks-v1a1/mono.m3u8?token=</link>
-<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
-
-item>
-<title>Box Nation</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://mags.vip:2086/live/miriam/miriam123/67081.m3u8&amp;name=Box Nation</link>
-<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
-
-item>
-<title>Sports Tonight</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://mags.vip:2086/live/miriam/miriam123/99205.m3u8&amp;name=Sports Tonight</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
@@ -225,7 +211,7 @@ item>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
-<item>
+item>
 <title>Eurosport 1</title>
 <link>https://laos-tech-live.b-cdn.net/uk-eurosport_480/index.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
@@ -239,7 +225,7 @@ item>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
-<item>
+item>
 <title>Eurosport 2</title>
 <link>https://laos-tech-live.b-cdn.net/uk-eurosport2_480/index.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
