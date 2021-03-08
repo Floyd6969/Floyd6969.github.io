@@ -100,8 +100,15 @@
 </item>
 
 <item>
-<title>Sony Six/title>
+<title>Sony Six</title>
 <link>http://208.115.215.42/SonY_Six_HD/tracks-v1a1/mono.m3u8</link>
+<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</item>
+  
+<item>
+<title>Fox Sports 501 Australia</title>
+<link>http://a2.okbetter.club:8880/wh12m3101/XRCKYwP3Lw/61094</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
