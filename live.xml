@@ -17,10 +17,17 @@
 
 <item>
 <title>20:00 Borussia Dortmund v Sevilla</title>
-<link>http://77.247.109.116/hls/ovo-free.m3u8</link>
+<link>http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1455.ts</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
+
+<item>
+<title>20:00 Juventus v FC Porto</title>
+<link>http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1453.ts</link>
+<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</item
 
 <item>
 <title>20:00 Juventus v FC Porto</title>
