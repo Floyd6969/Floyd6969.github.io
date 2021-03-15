@@ -2,6 +2,20 @@
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 
 <item>
+<title>[COLORyellow][B]If You're Using A VPN[/B][/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORyellow][B]Set It To UK/GB[/B][/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</item>
+
+<item>
 <title>BT Sport 1 HD (UFC)</title>
 <link>http://45.153.33.134:2200/EX/BT_Sport_1_HD-uk/tracks-v1a1/mono.m3u8?token=</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
