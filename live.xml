@@ -29,9 +29,16 @@
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
-item>
+<item>
+<title>17:55 Arsenal v Olympiakos</title>
+<link>https://d3onfshwrvvkde.cloudfront.net/hls/sportek-live.m3u8</link>
+<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</item>
+
+<item>
 <title>17:55 Dinamo Zagreb v Tottenham Hotspur</title>
-<link>http://45.153.33.134:2200/EX/BT_Sport_1_HD-uk/tracks-v1a1/mono.m3u8?token=</link>
+<link>https://d3onfshwrvvkde.cloudfront.net/hls/sportek-streams.xyz.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
