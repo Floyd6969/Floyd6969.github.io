@@ -16,56 +16,56 @@
 </item>
 
 <item>
-<title>BT Sport 1 HD (UFC)</title>
-<link>http://45.153.33.134:2200/EX/BT_Sport_1_HD-uk/tracks-v1a1/mono.m3u8?token=</link>
+<title>BT Sport 1 HD</title>
+<link>http://152.89.62.111:8080/live/m123/m123/137.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
 <item>
-<title>BT Sport 1 HD (UFC)</title>
-<link>http://45.153.33.134:2200/EX/BT_Sport_1_HD-uk/mono.m3u8?token=</link>
+<title>BT Sport 1 HD</title>
+<link>http://152.89.62.111:8080/live/m123/m123/156464.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
 <item>
-<title>BT Sport 1 HD (UFC)</title>
+<title>BT Sport 1 HD</title>
 <link>https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
 <item>
-<title>BT Sport 1 HD (UFC)</title>
+<title>BT Sport 1 HD</title>
 <link>http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
 <item>
-<title>BT Sport 2 HD (UFC)</title>
-<link>http://45.153.33.134:2200/EX/BT_Sport_2_HD-uk/tracks-v1a1/mono.m3u8?token=</link>
+<title>BT Sport 2 HD</title>
+<link>http://152.89.62.111:8080/live/m123/m123/43898.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
 <item>
-<title>BT Sport 2 HD (UFC)</title>
-<link>http://45.153.33.134:2200/EX/BT_Sport_2_HD-uk/mono.m3u8?token=</link>
+<title>BT Sport 2 HD</title>
+<link>http://152.89.62.111:8080/live/m123/m123/139.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
 <item>
-<title>BT Sport 2 HD (UFC)</title>
+<title>BT Sport 2 HD</title>
 <link>https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
 <item>
-<title>BT Sport 2 HD (UFC)</title>
+<title>BT Sport 2 HD</title>
 <link>http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
@@ -73,14 +73,21 @@
 
 <item>
 <title>BT Sport 3 HD</title>
-<link>http://45.153.33.134:2200/EX/BT_Sport_3_HD-uk/tracks-v1a1/mono.m3u8?token=</link>
+<link>http://152.89.62.111:8080/live/m123/m123/33845.m3u8</link>
+<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</item>
+
+<item>
+<title>BT Sport 3 HD</title>
+<link>http://152.89.62.111:8080/live/m123/m123/22953.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
 <item>
 <title>BT Sport ESPN HD</title>
-<link>http://45.153.33.134:2200/EX/BT_Sport_ESPN_HD-uk/tracks-v1a1/mono.m3u8?token=</link>
+<link>http://152.89.62.111:8080/live/m123/m123/33847.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
