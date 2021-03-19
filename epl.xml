@@ -400,4 +400,34 @@ item>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
+<item>
+	<title>Test 2</title>
+	<link>$doregex[get_sxstream]|Referer=https://v6.sportzonline.to/channels/hd/hd2.php</link>
+	<info>Programme dispo sur : https://v6.sportzonline.to/</info>
+	<regex>
+		<name>get_sxstream</name>
+		<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
+		<page>https://v6.sportzonline.to/channels/hd/hd2.php</page>
+		<referer>https://v6.sportzonline.to/channels/hd/hd2.php</referer>
+	</regex>
+	
+	<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
+        <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</item>
+
+<item>
+	<title>Test 3</title>
+	<link>$doregex[get_sxstream]|Referer=https://footyhunter1.xyz/papahd/stream-31.php</link>
+	<info>Programme dispo sur : https://footyhunter1.xyz/</info>
+	<regex>
+		<name>get_sxstream</name>
+		<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
+		<page>https://footyhunter1.xyz/papahd/stream-31.php</page>
+		<referer>https://footyhunter1.xyz/papahd/stream-31.php</referer>
+	</regex>
+	
+	<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
+        <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</item>
+
 
