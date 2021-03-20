@@ -15,13 +15,6 @@
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
-item>
-<title>24/7 Fixtures List</title>
-<link>http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2161.m3u8</link>
-<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
-
 <item>
 <title>NBCSN HD</title>
 <link>http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/606</link>
@@ -30,13 +23,20 @@ item>
 </item>
 
 <item>
+<title>NBCSN HD</title>
+<link>https://blackghost.live/get/wistream7.php?canal=43&file=.m3u8</link>
+<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</item>
+
+item>
 <title>BT Sport 1 HD</title>
 <link>https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
-<item>
+item>
 <title>BT Sport 1 HD</title>
 <link>http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
@@ -50,14 +50,14 @@ item>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
-<item>
+item>
 <title>BT Sport 2 HD</title>
 <link>https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
-<item>
+item>
 <title>BT Sport 2 HD</title>
 <link>http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
@@ -144,69 +144,6 @@ item>
 <item>
 <title>Bein Sports 1 (English)</title>
 <link>http://152.89.62.111:8080/live/m123/m123/169877.m3u8</link>
-<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
-
-item>
-<title>Bein Sports 2 (English)</title>
-<link>http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1454.ts</link>
-<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
-
-item>
-<title>Bein Sports 2 (English)</title>
-<link>http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1454.m3u8</link>
-<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
-
-item>
-<title>Bein Sports 3 (English)</title>
-<link>http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1455.ts</link>
-<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
-
-item>
-<title>Bein Sports 3 (English)</title>
-<link>http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1455.m3u8</link>
-<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
-
-item>
-<title>Optus 1 (English)</title>
-<link>http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1367.m3u8</link>
-<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
-
-item>
-<title>Optus 1 (English)</title>
-<link>http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1367.ts</link>
-<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
- 
-item>
-<title>Optus 2 (English)</title>
-<link>http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1368.ts</link>
-<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
-
-item>
-<title>NOW Sports 1 HD (English)</title>
-<link>http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2074.ts</link>
-<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
-
-item>
-<title>NOW Sports 1 HD (English)</title>
-<link>http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2074.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
@@ -365,7 +302,7 @@ item>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
  
-<item>
+item>
 <title>Eurosport 1</title>
 <link>https://www.livedoomovies.com/02_EUROHD1_720p/chunklist.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
@@ -379,7 +316,7 @@ item>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
-<item>
+item>
 <title>Eurosport 2</title>
 <link>https://www.livedoomovies.com/02_EUROHD2_720p/chunklist.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
