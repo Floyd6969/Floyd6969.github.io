@@ -1,37 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 
-item>
+<item>
 <title>UFC USA</title>
 <link>http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1122</link>
-<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
-
-<item>
-<title>UFC Replays</title>
-<link>http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/450.ts</link>
-<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
-
-<item>
-<title>UFC Fight Pass HD</title>
-<link>http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/446.ts</link>
-<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
-
-<item>
-<title>UFC Fight Pass 24/7</title>
-<link>http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/447.ts</link>
-<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
-
-<item>
-<title>DAZN Replays</title>
-<link>http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/451.ts</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
