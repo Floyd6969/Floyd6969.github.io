@@ -29,6 +29,13 @@
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
+<item>
+<title>Sky Sports News</title>
+<link>http://31.220.41.88:8081/live/skysportsnews.stream/chunks.m3u8</link>
+<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</item>
+
 item>
 <title>19:30 Fortuna Dusseldorf v Bochum</title>
 <link>https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8</link>
