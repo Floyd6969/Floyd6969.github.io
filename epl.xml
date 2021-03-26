@@ -79,30 +79,30 @@
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
-item>
-<title>SuperSport Prem HD</title>
-<link>http://45.153.33.134:2200/AFR-EX/SuperSport_Premier_League_FHD-dstv/index.m3u8?token=</link>
+<item>
+<title>Bein Sports 1 (English)</title>
+<link>https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
 <item>
-<title>Astro Supersport (English)</title>
-<link>http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8</link>
-<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
-
-item>
-<title>Premier Sports HD 1 UK</title>
-<link>http://45.153.33.134:2200/EX/Premier1_HD-uk/index.m3u8?token=</link>
+<title>Bein Sports 1 (English)</title>
+<link>http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
  
-item>
-<title>Premier Sports HD 1 UK</title>
-<link>http://45.153.33.134:2200/EX/Premier1_HD-uk/tracks-v1a1/mono.m3u8?token=</link>
+<item>
+<title>Bein Sports 2 (English)</title>
+<link>https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8</link>
+<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</item>
+
+<item>
+<title>Bein Sports 2 (English)</title>
+<link>http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
@@ -191,41 +191,6 @@ item>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
  
-<item>
-<title>Bein Sports 1 (AR)</title>
-<link>https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8</link>
-<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
-
-<item>
-<title>Bein Sports 1 (AR)</title>
-<link>http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8</link>
-<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
- 
-item>
-<title>Bein Sports 2 (AR)</title>
-<link>http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1437.ts</link>
-<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
- 
-<item>
-<title>Bein Sports 2 (AR)</title>
-<link>https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8</link>
-<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
-
-<item>
-<title>Bein Sports 2 (AR)</title>
-<link>http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8</link>
-<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
-
 <item>
 <title>Eurosport 1</title>
 <link>https://www.livedoomovies.com/02_EUROHD1_720p/chunklist.m3u8</link>
