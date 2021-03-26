@@ -2,36 +2,71 @@
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 
 <item>
-<title>UFC Prelims And Main Fight Live</title>
-<link>https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8</link>
-<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
+<title>Live Sport Event 1</title>
+<link>http://cdn.addressingethernet.xyz/hls/101.m3u8</link>
+<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
 <item>
-<title>UFC Prelims And Main Fight Live</title>
-<link>http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8</link>
-<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
+<title>Live Sport Event 2</title>
+<link>http://cdn.addressingethernet.xyz/hls/102.m3u8</link>
+<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
 <item>
-<title>UFC Prelims And Main Fight Live</title>
-<link>https://laos-tech-live.b-cdn.net/uk-btsport1hd_720/index.m3u8</link>
-<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
+<title>Live Sport Event 3</title>
+<link>http://cdn.addressingethernet.xyz/hls/103.m3u8</link>
+<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
-item>
-<title>Six Nations Rugby</title>
-<link>http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1448.m3u8</link>
-<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
+<item>
+<title>Live Sport Event 4</title>
+<link>http://cdn.addressingethernet.xyz/hls/104.m3u8</link>
+<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
-item>
-<title>Six Nations Rugby</title>
-<link>http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1448.ts</link>
-<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
+<item>
+<title>Live Sport Event 5</title>
+<link>http://cdn.addressingethernet.xyz/hls/105.m3u8</link>
+<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</item>
+
+<item>
+<title>Live Sport Event 6</title>
+<link>http://cdn.addressingethernet.xyz/hls/106.m3u8</link>
+<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</item>
+
+<item>
+<title>Live Sport Event 7</title>
+<link>http://cdn.addressingethernet.xyz/hls/107.m3u8</link>
+<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</item>
+
+<item>
+<title>Live Sport Event 8</title>
+<link>http://cdn.addressingethernet.xyz/hls/108.m3u8</link>
+<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</item>
+
+<item>
+<title>Live Sport Event 9</title>
+<link>http://cdn.addressingethernet.xyz/hls/109.m3u8</link>
+<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</item>
+
+<item>
+<title>Live Sport Event 10</title>
+<link>http://cdn.addressingethernet.xyz/hls/110.m3u8</link>
+<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
