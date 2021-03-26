@@ -30,8 +30,22 @@
 </item>
 
 <item>
+<title>Bein Sports</title>
+<link>http://157.230.224.200/androidtv/web/app.php/video/playvideo/97912/12?f=.m3u8</link>
+<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</item>
+
+<item>
 <title>Bein Sports Extra</title>
 <link>http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102livestitch/1302083/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=&paln=&includeExtendedEvents=false&architecture=&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceType=web&deviceMake=web&sid=740&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web&app_name=&buildVersion=&appStoreUrl=&marketingRegion=US&profilesFromStream=true&startingOffset=0</link>
+<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</item>
+
+<item>
+<title>Bein N</title>
+<link>http://157.230.224.200/androidtv/web/app.php/video/playvideo/97911/12?f=.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
@@ -128,22 +142,8 @@
 </item>
 
 <item>
-<title>PSL 6 Live - Willow HD</title>
-<link>https://afghantvchannels.webhop.me/Cricket-Astro-Cricket-Quality/tracks-v3a1/mono.m3u8</link>
-<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
-
-<item>
-<title>Sony Six</title>
-<link>http://208.115.215.42/SonY_Six_HD/tracks-v1a1/mono.m3u8</link>
-<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
-  
-<item>
-<title>Fox Sports 501 Australia</title>
-<link>http://a2.okbetter.club:8880/wh12m3101/XRCKYwP3Lw/61094</link>
+<title>Golf Channel</title>
+<link>http://157.230.224.200/androidtv/web/app.php/video/playvideo/4288/12?f=.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
