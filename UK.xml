@@ -2,194 +2,55 @@
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 
 <dir>
+<name>[COLORlime]>>>> Cricket >>>>>[/COLOR]</name>
+<thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/newds9/Cricket.xml</link>
+<fanart></fanart>
+</dir>
+
+<dir>
+<name>[COLORlime]>>>> Motor Sports >>>>>[/COLOR]</name>
+<thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/newds9/Motor.xml</link>
+<fanart></fanart>
+</dir>
+
+<dir>
+<name>[COLORlime]>>>> Boxing >>>>>[/COLOR]</name>
+<thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/newds9/Box.xml</link>
+<fanart></fanart>
+</dir>
+
+<dir>
+<name>[COLORlime]>>>> Tennis >>>>>[/COLOR]</name>
+<thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/newds9/Tennis.xml</link>
+<fanart></fanart>
+</dir>
+
+<dir>
+<name>[COLORlime]>>>> WWE >>>>>[/COLOR]</name>
+<thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/newds9/Wrest.xml</link>
+<fanart></fanart>
+</dir>
+
+<dir>
+<name>[COLORlime]>>>> UFC >>>>>[/COLOR]</name>
+<thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/newds9/Ufc.xml</link>
+<fanart></fanart>
+</dir>
+
+<dir>
 <name>[COLORlime]>>>> More Live Events >>>>>[/COLOR]</name>
 <thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
 <link>https://raw.githubusercontent.com/Floyd6969/Floyd6969.github.io/master/events.xml</link>
 <fanart></fanart>
 </dir>
 
-item>
-<title>India Vs England 2nd ODI Live</title>
-<link>https://hls.rtasports.live/hls/stream.m3u8</link>
-<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
 
-<item>
-<title>NZ v Bangladesh</title>
-<link>https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8</link>
-<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
-
-<item>
-<title>NZ v Bangladesh</title>
-<link>http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8</link>
-<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
-
-<item>
-<title>10:45 Live MotoGP: Qatar Opening Day</title>
-<link>https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8</link>
-<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
-
-<item>
-<title>10:45 Live MotoGP: Qatar Opening Day</title>
-<link>http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8</link>
-<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
-
-<item>
-<title>19:00 Live: BT Sport Fight Night Boxing</title>
-<link>https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8</link>
-<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
-
-<item>
-<title>19:00 Live: BT Sport Fight Night Boxing</title>
-<link>http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8</link>
-<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
-
-<item>
-<title>Bahrain Grand Prix 2021</title>
-<link>http://stream.mazystreams.xyz/live/streamsd/playlist.m3u8</link>
-<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
-
-<item>
-<title>Bahrain Grand Prix 2021</title>
-<link>http://stream.mazystreams.xyz:80/live/streamsd/chunks.m3u8</link>
-<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
-
-<item>
-<title>Bahrain Grand Prix 2021</title>
-<link>http://185.207.145.71:8000/play/a01z/index.m3u8</link>
-<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
-
-<item>
-<title>Bahrain Grand Prix 2021</title>
-<link>http://45.94.149.154:8000/play/a045</link>
-<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
-
-<item>
-<title>Tennis Channel</title>
-<link>https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8</link>
-<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
-
-<item>
-<title>Tennis Channel</title>
-<link>https://dai.google.com/linear/hls/event/hj7NDZ5ZSE2m2MWQPiKp3Q/master.m3u8</link>
-<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
-
-<item>
-<title>Tennis Channel</title>
-<link>https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8</link>
-<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
-
-<item>
-<title>Tennis Channel</title>
-<link>https://www.livedoomovies.com/02_TennisHD_720p/chunklist.m3u8</link>
-<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
-
-<item>
-<title>00:00 WWE Smackdown</title>
-<link>https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8</link>
-<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
-
-<item>
-<title>00:00 WWE Smackdown</title>
-<link>http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8</link>
-<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
-
-<item>
-<title>UFC Prelims And Main</title>
-<link>https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8</link>
-<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
-
-<item>
-<title>UFC Prelims And Main</title>
-<link>http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8</link>
-<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
-
-<item>
-<title>UFC Prelims And Main</title>
-<link>https://blackghost.live/get/wistream7.php?canal=31&file=.m3u8</link>
-<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
-
-<item>
-<title>UFC Prelims And Main</title>
-<link>https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8</link>
-<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
-
-<item>
-<title>UFC Prelims And Main</title>
-<link>http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8</link>
-<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
-
-<item>
-<title>UFC Prelims And Main</title>
-<link>http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8</link>
-<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
-
-
-item>
-<title>UFC Prelims And Main</title>
-<link>http://77.247.109.116/hls/liveovo2.m3u8</link>
-<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
-
-item>
-<title>UFC Prelims And Main</title>
-<link>http://cdn.maskamr.xyz/live/MMA/chunks.m3u8</link>
-<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
-
-item>
-<title>Boxing</title>
-<link>http://g.crackstream.gq/dazn.m3u8</link>
-<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
 
 
 
