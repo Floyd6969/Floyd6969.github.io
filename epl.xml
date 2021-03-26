@@ -44,13 +44,6 @@
 </item>
 
 <item>
-<title>BT Sport 1 HD</title>
-<link>https://blackghost.live/get/wistream7.php?canal=31&file=.m3u8</link>
-<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
-
-<item>
 <title>BT Sport 2 HD</title>
 <link>https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
@@ -66,14 +59,14 @@
 
 
 <item>
-<title>Sky Premier League (MTO)</title>
+<title>Sky Channel</title>
 <link>http://stream.mazystreams.xyz/live/streamsd/playlist.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
 <item>
-<title>Sky Premier League (MTO)</title>
+<title>Sky Channel</title>
 <link>http://stream.mazystreams.xyz:80/live/streamsd/chunks.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
@@ -227,7 +220,7 @@
 </item>
 
 <item>
-<title>Eleven Sports</title>
+<title>FTF</title>
 <link>https://elevensports-samsunguk-de.samsung.wurl.com/manifest/playlist.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
