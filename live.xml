@@ -37,15 +37,8 @@
 </item>
 
 <item>
-<title>Isreal vs Scotland</title>
-<link>http://45.148.26.173/hls/S2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yOC8yMDIxIDM6NTkKOjM4CiBQTSZoYXNoX3ZhbHVlPVRzbFUyNXJ0RHRXVysvQlgyUVF1VXc9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTgyLjEzMi4xODUuMTU3JnN0cm1fbGVuPTQ=%7CReferer=http://hockeynews.site/today/events/Isr-Sco/</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
 <title>Switzerland vs Lithuania</title>
-<link>http://77.247.109.94/hls/T3.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yOC8yMDIxIDM6NTkKOjM5CiBQTSZoYXNoX3ZhbHVlPXcrb0duSEcwcko5YTlMemNjMVhTRWc9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTgyLjEzMi4xODUuMTU3JnN0cm1fbGVuPTQ=%7CReferer=http://hockeynews.site/today/events/Swi-Lit/</link>
+<link>http://77.247.109.94/hls/T3.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -80,7 +73,7 @@
 
 <item>
 <title>Romania v Germany</title>
-<link>http://77.247.109.111/hls/A1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yOC8yMDIxIDM6NTkKOjM5CiBQTSZoYXNoX3ZhbHVlPXcrb0duSEcwcko5YTlMemNjMVhTRWc9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTgyLjEzMi4xODUuMTU3JnN0cm1fbGVuPTQ=%7CReferer=http://hockeynews.site/today/events/Rom-Ger/</link>
+<link>http://77.247.109.111/hls/A1.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
@@ -122,7 +115,7 @@
 
 <item>
 <title>Georgia vs Spain</title>
-<link>http://77.247.109.111/hls/A1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yOC8yMDIxIDM6NTkKOjM5CiBQTSZoYXNoX3ZhbHVlPXcrb0duSEcwcko5YTlMemNjMVhTRWc9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTgyLjEzMi4xODUuMTU3JnN0cm1fbGVuPTQ=%7CReferer=http://hockeynews.site/today/events/Geo-Spa/</link>
+<link>http://77.247.109.111/hls/A1.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
@@ -143,14 +136,14 @@
 
 <item>
 <title>Kosovo vs Sweden</title>
-<link>http://45.148.26.173/hls/S3.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yOC8yMDIxIDM6NTkKOjQwCiBQTSZoYXNoX3ZhbHVlPU8xZVk1dXZkOEhHeGVUTE11SzRsalE9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTgyLjEzMi4xODUuMTU3JnN0cm1fbGVuPTQ=%7CReferer=http://hockeynews.site/today/events/Bul-Ita/</link>
+<link>http://77.247.109.111/hls/A3.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
 <item>
 <title>Bulgaria vs Italy</title>
-<link>http://45.148.26.173/hls/S3.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yOC8yMDIxIDM6NTkKOjQwCiBQTSZoYXNoX3ZhbHVlPU8xZVk1dXZkOEhHeGVUTE11SzRsalE9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTgyLjEzMi4xODUuMTU3JnN0cm1fbGVuPTQ=%7CReferer=http://hockeynews.site/today/events/Bul-Ita/</link>
+<link>http://45.148.26.173/hls/S3.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
