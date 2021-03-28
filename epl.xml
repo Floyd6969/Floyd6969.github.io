@@ -72,15 +72,29 @@
 </item>
 
 <item>
-<title>Sky Sports Channel</title>
+<title>Sky Football</title>
+<link>http://amnm.azureedge.net/edge/SSF/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</item>
+
+<item>
+<title>Sports Channel</title>
 <link>http://stream.mazystreams.xyz/live/streamsd/playlist.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
 <item>
-<title>Sky Sports Channel</title>
+<title>Sports Channel</title>
 <link>http://stream.mazystreams.xyz:80/live/streamsd/chunks.m3u8</link>
+<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</item>
+
+<item>
+<title>Astro Supersport 3</title>
+<link>http://reels2watch.com/hls/s1.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
