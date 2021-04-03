@@ -2,6 +2,13 @@
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 
 <dir>
+<name>[COLORlime]>>>> Football Streams (Match Time Only) >>>>>[/COLOR]</name>
+<thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
+<link>https://raw.githubusercontent.com/Floyd6969/Floyd6969.github.io/master/mto.xml</link>
+<fanart></fanart>
+</dir>
+
+<dir>
 <name>[COLORlime]>>>> Cricket >>>>>[/COLOR]</name>
 <thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
 <link>https://raw.githubusercontent.com/Floyd6969/DJV/master/newds9/Cricket.xml</link>
@@ -54,13 +61,6 @@
 <name>[COLORlime]>>>> Skynet Sports >>>>>[/COLOR]</name>
 <thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
 <link>https://raw.githubusercontent.com/Floyd6969/DJV/master/newds9/Skynet.xml</link>
-<fanart></fanart>
-</dir>
-
-<dir>
-<name>[COLORlime]>>>> Football Streams (Match Time Only) >>>>>[/COLOR]</name>
-<thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/Floyd6969.github.io/master/mto.xml</link>
 <fanart></fanart>
 </dir>
 
