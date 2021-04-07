@@ -72,6 +72,13 @@
 </item>
 
 <item>
+<title>20:00 FC Porto v Chelsea (US IP or VPN)</title>
+<link>https://dai.google.com/linear/hls/pa/event/14ZZRx-nRFCnWbXAa8EfxQ/stream/6ba5e49b-1819-4a12-9676-23c1211a239f:DLS/variant/e77145400921ca8b201c794a5d121a17/bandwidth/1398909.m3u8</link>
+<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</item>
+
+<item>
 <title>20:00 Bayern Munich v PSG</title>
 <link>http://77.247.109.116/hls/liveovo1.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
@@ -88,6 +95,13 @@
 <item>
 <title>20:00 Bayern Munich v PSG</title>
 <link>http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8</link>
+<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</item>
+
+<item>
+<title>20:00 Bayern Munich v PSG (US IP or VPN)</title>
+<link>https://dai.google.com/linear/hls/pa/event/c_3obHzzRKeF36N4PCGC4w/stream/3e8ed205-baff-4161-afc4-36c3214256b2:DLS/variant/0cb13db376d6fed001c6728c9be33dd8/bandwidth/1398909.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
