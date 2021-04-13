@@ -36,40 +36,58 @@
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
-
-
 <item>
-<title>20:15 Brighton & Hove Albion v Everton</title>
-<link>http://77.83.117.60:8888/03_skynetsporthd_720p/chunklist.m3u8</link>
+<title>20:00 Chelsea v FC Porto</title>
+<link>http://77.247.109.116/hls/liveovo2.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
 <item>
-<title>20:15 Brighton & Hove Albion v Everton</title>
+<title>20:00 Chelsea v FC Porto</title>
+<link>https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8</link>
+<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</item>
+
+<item>
+<title>20:00 Chelsea v FC Porto</title>
+<link>http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8</link>
+<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</item>
+
+<item>
+<title>20:00 Chelsea v FC Porto</title>
 <link>https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
 <item>
-<title>20:15 Brighton & Hove Albion v Everton</title>
+<title>20:00 Chelsea v FC Porto</title>
 <link>http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
 <item>
-<title>20:15 Brighton & Hove Albion v Everton</title>
-<link>https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8</link>
+<title>20:00 PSG v Bayern Munich</title>
+<link>http://77.247.109.116/hls/liveovo1.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
  
 <item>
-<title>20:15 Brighton & Hove Albion v Everton</title>
-<link>http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8</link>
+<title>20:00 PSG v Bayern Munich</title>
+<link>https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
+<item>
+<title>20:00 PSG v Bayern Munich</title>
+<link>http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8</link>
+<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</item>
