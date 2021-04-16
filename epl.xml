@@ -79,27 +79,6 @@
 </item>
 
 <item>
-<title>Sports Channel (Multi)</title>
-<link>http://stream.mazystreams.xyz:80/live/streamqsd/chunks.m3u8</link>
-<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
-
-<item>
-<title>Sports Channel (Multi)</title>
-<link>http://stream.mazystreams.xyz/live/streamsd/playlist.m3u8</link>
-<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
-
-<item>
-<title>Sports Channel (Multi)</title>
-<link>http://stream.mazystreams.xyz:80/live/streamsd/chunks.m3u8</link>
-<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
-
-<item>
 <title>Sky F1</title>
 <link>https://lon-haproxy.angelthump.com/hls/spf1general/index.m3u8?stream=spf1general</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
