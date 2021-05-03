@@ -23,64 +23,8 @@
 </item>
 
 <item>
-<title>TUDN</title>
-<link>https://dai.google.com/linear/hls/event/bQ2JGGVzTpqfCfcTZWay1Q/master.m3u8</link>
-<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
-
-<item>
-<title>Bein Sports</title>
-<link>http://157.230.224.200/androidtv/web/app.php/video/playvideo/97912/12?f=.m3u8</link>
-<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
-
-<item>
 <title>Bein Sports Extra</title>
 <link>http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102livestitch/1302083/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=&paln=&includeExtendedEvents=false&architecture=&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceType=web&deviceMake=web&sid=740&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web&app_name=&buildVersion=&appStoreUrl=&marketingRegion=US&profilesFromStream=true&startingOffset=0</link>
-<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
-
-<item>
-<title>Bein N</title>
-<link>http://157.230.224.200/androidtv/web/app.php/video/playvideo/97911/12?f=.m3u8</link>
-<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
-
-<item>
-<title>Futbol 1 Russia</title>
-<link>https://95-213-224-180.livesports24.online/ntvmatchfoot1.m3u8</link>
-<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
-
-<item>
-<title>Futbol 1 Russia</title>
-<link>http://46.174.189.51/m1/index.m3u8</link>
-<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
-
-<item>
-<title>Futbol 2 Russia</title>
-<link>https://95-213-224-180.livesports24.online/ntvmatchfoot1.m3u8</link>
-<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
-
-<item>
-<title>Futbol 3 Russia</title>
-<link>https://46-166-139-84.livesports24.online/football3ua.m3u8</link>
-<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
-
-<item>
-<title>Match Premier Russia</title>
-<link>http://46.174.189.51/matchpremer/tracks-v1a1/mono.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
