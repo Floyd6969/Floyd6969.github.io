@@ -72,6 +72,13 @@
 </item>
 
 <item>
+<title>SS Premier League HD</title>
+<link>http://stream.tvtap.live:8081/live/skysports-premier-league.stream/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</item>
+
+<item>
 <title>True Premier 2 HD </title>
 <link>https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
@@ -137,6 +144,13 @@
 <item>
 <title>Star Sports 2</title>
 <link>http://stariptv.xyz:8880/661562/505844/179342</link>
+<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</item>
+
+<item>
+<title>SS Cricket</title>
+<link>http://stream.tvtap.live:8081/live/skysports-cricket1.stream/chunks.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
