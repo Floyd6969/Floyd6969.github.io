@@ -1,13 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
-
-<item>
-<title>[COLORyellow][B]English Commentary[/B][/COLOR]</title>
-<link>ignoreme</link>
-<thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
-
 <item>
 <title>NBCSN HD</title>
 <link>http://stream.tvtap.live:8081/live/nbcsn.stream/playlist.m3u8</link>
