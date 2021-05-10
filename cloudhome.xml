@@ -14,7 +14,7 @@
 
 <dir>
 <title>Live Events Channels</title>
-<link>view-source:https://floyd6969.github.io/NewLiveEvents.xml</link>
+<link>https://floyd6969.github.io/NewLiveEvents.xml</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </dir>
@@ -29,6 +29,13 @@
 <dir>
 <title>Sport TV</title>
 <link>https://raw.githubusercontent.com/Floyd6969/DJV/master/newds9/Sporttv.xml</link>
+<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</dir>
+
+<dir>
+<title>Bein Sports</title>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/newds9/Bein.xml</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </dir>
