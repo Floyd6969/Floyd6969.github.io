@@ -13,28 +13,28 @@
 </dir>
 
 <dir>
-<name>Live UFC/MMA</name>
+<title>Live UFC/MMA</title>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <link>http://ezzer-mac.com/x/Mav/ufc.xml</link>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </dir>
 
 <dir>
-<name>Live Boxing</name>
+<title>Live Boxing</title>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <link>http://ezzer-mac.com/x/Mav/boxing.xml</link>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </dir>
 
 <dir>
-<name>Live UEFA Champions League</name>
+<title>Live UEFA Champions League</title>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <link>http://ezzer-mac.com/x/Mav/champs.xml</link>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </dir>
 
 dir>
-<name>Live UEFA Europa League</name>
+<title>Live UEFA Europa League</title>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <link>http://ezzer-mac.com/x/Mav/europa.xml</link>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
