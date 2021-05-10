@@ -1,5 +1,5 @@
 <dir>
-<title>Live Footy/Soccer 1</title>
+<title>Live Footy/Soccer</title>
 <link>http://ezzer-mac.com/x/Mav/prem.xml</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart> 
@@ -13,8 +13,8 @@
 </dir>
 
 <dir>
-<title>Live Events 1</title>
-<link>http://ezzer-mac.com/x/Mav/events.xml</link>
+<title>Live Events</title>
+<link>https://raw.githubusercontent.com/Floyd6969/Floyd6969.github.io/master/NewLiveEvents.xml</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </dir>
