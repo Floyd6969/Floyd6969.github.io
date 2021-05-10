@@ -13,9 +13,30 @@
 </dir>
 
 <dir>
-<title>Live Events 1</title>
-<link>https://floyd6969.github.io/NewLiveEvents.xml</link>
+<name>Live UFC/MMA</name>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
+<link>http://ezzer-mac.com/x/Mav/ufc.xml</link>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</dir>
+
+<dir>
+<name>Live Boxing</name>
+<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
+<link>http://ezzer-mac.com/x/Mav/boxing.xml</link>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</dir>
+
+<dir>
+<name>Live UEFA Champions League</name>
+<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
+<link>http://ezzer-mac.com/x/Mav/champs.xml</link>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</dir>
+
+dir>
+<name>Live UEFA Europa League</name>
+<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
+<link>http://ezzer-mac.com/x/Mav/europa.xml</link>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </dir>
 
